@@ -1,11 +1,13 @@
 ### Hi there 👋
 I am  Facundo,
+
 Developer...
+
 Student from ORT Uruguay  
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on https://github.com/fjgenerali/Mini-Mercado ...
 - 🌱 I’m currently learning Unity Hub ...
